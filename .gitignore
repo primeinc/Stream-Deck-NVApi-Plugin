@@ -1,0 +1,9 @@
+.DS_Store
+.idea/**
+/src/DistributionTool
+ms.prime.stream-deck-nvapi.streamDeckPlugin
+.vscode/**
+package.json
+.history
+__exclude
+.editorconfig
